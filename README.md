@@ -7,7 +7,7 @@ Aplicação desktop desenvolvida utilizando **Flutter** e banco de dados **SQLit
 
 Tecnologias Utilizadas:
 
-- **Flutter** (Desktop – Windows)
+- **Flutter**
 - **SQLite**
 
 Bibliotecas utilizadas:
